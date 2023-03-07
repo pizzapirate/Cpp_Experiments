@@ -1,6 +1,6 @@
 #include <iostream>
-
+#include "MyConsoleLogger.h"
 int main() {
-	std::cout << "Hello world!";
+
 	return 0;
 }
