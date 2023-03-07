@@ -20,10 +20,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Test.h">
+    <ClInclude Include="MyConsoleLogger.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MyConsoleLogger.h">
+    <ClInclude Include="PrimeNumbers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -131,7 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyConsoleLogger.h" />
-    <ClInclude Include="Test.h" />
+    <ClInclude Include="PrimeNumbers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
