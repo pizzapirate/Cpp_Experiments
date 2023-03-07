@@ -17,7 +17,6 @@ public : void Begin() {
 	else {
 		std::cout << "\nThe prime number you have asked to generate is: " << primeNumbers[primeNumIndex-1];
 	}
-
 	}
 private: int getUserInput() {
 	int primeNumberToPrint{};
@@ -40,7 +39,6 @@ private: int getUserInput() {
 }
 private: void primeNumberGen(int index) {
 	int i = primeNumbers.back() + 1;
-
 	while (true) {
 		if (isNumberPrime(i)) {
 			primeNumbers.push_back(i);
