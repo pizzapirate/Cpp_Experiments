@@ -130,6 +130,7 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FoodConstants.h" />
     <ClInclude Include="MyConsoleLogger.h" />
     <ClInclude Include="PrimeNumbers.h" />
     <ClInclude Include="RandomNumberGenerator.h" />

@@ -29,5 +29,8 @@
     <ClInclude Include="RandomNumberGenerator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="FoodConstants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
