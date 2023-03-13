@@ -12,6 +12,7 @@ int main() {
 	Margherita marg{};
 
 	marg.Name();
+	marg.Ingredients();
 
 	//extern std::string poptarts;
 	//std::cout << poptarts;
