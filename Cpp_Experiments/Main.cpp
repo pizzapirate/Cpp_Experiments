@@ -6,13 +6,16 @@
 #include "RandomNumberGenerator.h"
 #include "FoodConstants.h"
 #include "PizzaPolymorphism.h"
+#include "FizzBuzz.h"
 int main() {
 	
+	FizzBuzz fb{};
+	fb.StartGame();
 
-	Margherita marg{};
+	//Margherita marg{};
 
-	marg.Name();
-	marg.Ingredients();
+	//marg.Name();
+	//marg.Ingredients();
 
 	//extern std::string poptarts;
 	//std::cout << poptarts;

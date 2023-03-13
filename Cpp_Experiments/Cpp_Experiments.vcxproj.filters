@@ -35,5 +35,8 @@
     <ClInclude Include="PizzaPolymorphism.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="FizzBuzz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
