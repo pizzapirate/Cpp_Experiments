@@ -32,5 +32,8 @@
     <ClInclude Include="FoodConstants.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PizzaPolymorphism.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

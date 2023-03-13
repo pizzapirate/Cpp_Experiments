@@ -5,10 +5,16 @@
 #include "PrimeNumbers.h"
 #include "RandomNumberGenerator.h"
 #include "FoodConstants.h"
+#include "PizzaPolymorphism.h"
 int main() {
 	
-	extern std::string poptarts;
-	std::cout << poptarts;
+
+	Margherita marg{};
+
+	marg.Name();
+
+	//extern std::string poptarts;
+	//std::cout << poptarts;
 	
 	//PrimeNumberProgram png;
 	//png.Begin();
