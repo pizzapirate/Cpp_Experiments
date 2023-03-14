@@ -7,10 +7,15 @@
 #include "FoodConstants.h"
 #include "PizzaPolymorphism.h"
 #include "FizzBuzz.h"
+#include "TemplateTests.h"
 int main() {
-	
-	FizzBuzz fb{};
-	fb.StartGame();
+		
+	//int i{ 1 };
+	//double d{ 2.0 };
+	//add<int>(i, d);
+
+	//FizzBuzz fb{};
+	//fb.StartGame();
 
 	//Margherita marg{};
 

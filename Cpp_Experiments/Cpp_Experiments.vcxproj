@@ -136,6 +136,7 @@
     <ClInclude Include="PizzaPolymorphism.h" />
     <ClInclude Include="PrimeNumbers.h" />
     <ClInclude Include="RandomNumberGenerator.h" />
+    <ClInclude Include="TemplateTests.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
